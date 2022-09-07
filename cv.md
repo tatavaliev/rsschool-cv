@@ -4,7 +4,7 @@
 ###Contacts
 ####E-mail: tatavaliev@gmail.com
 ####Telegram : @konferansie
-[LinkedIn]("LinkedIn")
+[(https://www.linkedin.com/in/timur-atavaliev-0a9a99101/)]("LinkedIn")
 
 ###Bio
 I'm 35 y.o, I live in Kyrgyzstan, Bishkek.
